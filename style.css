@@ -84,6 +84,7 @@ scale: 1.05;
   font-size: 2vw;
   font-family: var(--poppins);
   border-radius: 24px;
+ transition: all .2s ease;
 }
 
 footer{
