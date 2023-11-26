@@ -1,6 +1,6 @@
 **Age Calculator**
 
-A simple and user-friendly Age Calculator web application created using HTML, CSS, and JavaScript. This project allows users to input their birthdate, and with the click of a button, it calculates and displays their age.
+A simple and user-friendly Age Calculator web application created using HTML, CSS, and JavaScript. This app allows users to input their birthdate, and with the click of a button, it calculates and displays their age.
 
 **Features:**
 
@@ -21,4 +21,4 @@ Choose your birthdate using the provided date picker.
 Click the "Calculate" button to see your age.
 
 
-Feel free to use, modify, and contribute to this project. If you have any suggestions or improvements, please create an issue or a pull request.
+Feel free to use, modify, and contribute to this app. If you have any suggestions or improvements, please create an issue or a pull request.
